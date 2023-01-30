@@ -300,7 +300,7 @@ Eğer repo sahibi onaylayacaksa bu değişiklikleri repo üzerindeki pull reques
 
 ReadMe.md dosyaları proje veya profilimiz hakkında bilgi veriyor. Burada .md uzantısı mark down anlamına geliyor. ReadMe dosyasının kendi systax’ı var bunu markdown cheat sheet yazarak bulabiliyoruz.
 
-Örneğin; #Header(Başlık), **bold**, *italic*, Link bırakma ->[Açıklama](Link), Görsel bırakma ->! [Görselin isti](Görsel linki)
+Örneğin; #Header(Başlık), **bold**, *italic*, Link bırakma ->[Açıklama](Link), Görsel bırakma ->! [Görselin ismi](Görsel linki)
 
 Git’i efektif olarak kullanabilmemiz önemli. Çoğu IDE artık git destekliyor ve terminal ekranını açmadan bile işlemleri yapabiliyoruz.
 
